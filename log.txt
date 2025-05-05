@@ -1,0 +1,137 @@
+09:30:00
+============================================================
+Today is: 05/05
+Current Time: 09:28
+Target Time: 09:30
+Waiting for 09:30 ... 2 minutes left.
+Waiting for 09:30 ... 1 minutes left.
+Waiting for 09:30 ... 0 minutes left.
+Starting to send messages at 09:30.
+
+
+Starting to send messages at 09:30.
+Sending Birthday Messages:
+Sent to Neha Reddy (9999999999)
+Sent to Priya Nair (9999999999)
+Sent to Rahul Choudhary (9999999999)
+------------------------------
+Total Customers having Birthday Today: 3
+------------------------------
+No customers have Anniversary today.
+No customers have both Birthday and Anniversary today.
+All messages processed.
+============================================================
+
+
+
+
+
+
+09:30:00
+============================================================
+Today is: 04/05
+Current Time: 09:28
+Target Time: 09:30
+Minutes left to 09:30: 2
+Waiting for 09:30 ... 2 minutes left.
+Waiting for 09:30 ... 1 minutes left.
+Waiting for 09:30 ... 0 minutes left.
+Starting to send messages at 09:30.
+
+
+Starting to send messages at 09:30.
+Sending Birthday Messages:
+Sent to Vedang Tiwari (9999999999)
+Sent to Vivek Jorewal (9999999999)
+------------------------------
+Total Customers having Birthday Today: 2
+------------------------------
+Sending Anniversary Messages:
+Sent to Rakesh Sharma (9999999999)
+Sent to Rakesh Kumar (9999999999)
+------------------------------
+Total Customers having Marriage Anniversary Today: 2
+------------------------------
+No customers have both Birthday and Anniversary today.
+All messages processed.
+============================================================
+
+
+
+
+
+
+09:30:00
+============================================================
+Today is: 03/05
+Current Time: 09:28
+Target Time: 09:30
+Minutes left to 09:30: 2
+Waiting for 09:30 ... 2 minutes left.
+Waiting for 09:30 ... 1 minutes left.
+Waiting for 09:30 ... 0 minutes left.
+Starting to send messages at 09:30.
+
+
+Starting to send messages at 09:30.
+Sending Birthday Messages:
+Sent to Rishabh Arora (9999999999)
+Sent to Sweety Chaudhry (9999999999)
+------------------------------
+Total Customers having Birthday Today: 2
+------------------------------
+Sending Anniversary Messages:
+Sent to Rahul Choudhary (9999999999)
+------------------------------
+Total Customers having Marriage Anniversary Today: 1
+------------------------------
+Sending Both Birthday and Anniversary Messages:
+Sent to Aditya Prakash (9999999999)
+------------------------------
+Total Customers having Both Birthday and Marriage Anniversary Today: 1
+------------------------------
+All messages processed.
+============================================================
+
+
+
+
+
+
+09:00:00
+============================================================
+Today is: 03/05
+Current Time: 08:58
+Target Time: 09:00
+Minutes left to 09:00: 2
+Waiting for 09:00 ... 2 minutes left.
+Waiting for 09:00 ... 1 minutes left.
+Waiting for 09:00 ... 0 minutes left.
+Starting to send messages at 09:00.
+
+
+Starting to send messages at 09:00.
+Sending Birthday Messages:
+Sent to Rishabh Arora (9999999999)
+Sent to Sweety Chaudhry (9999999999)
+------------------------------
+Total Customers having Birthday Today: 2
+------------------------------
+Sending Anniversary Messages:
+Sent to Rahul Choudhary (9999999999)
+------------------------------
+Total Customers having Marriage Anniversary Today: 1
+------------------------------
+Sending Both Birthday and Anniversary Messages:
+Sent to Aditya Prakash (9999999999)
+------------------------------
+Total Customers having Both Birthday and Marriage Anniversary Today: 1
+------------------------------
+All messages processed.
+============================================================
+
+
+
+
+
+
